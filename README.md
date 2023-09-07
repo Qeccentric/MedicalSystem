@@ -1,1 +1,1 @@
-# MedicalSystem
+# 这是一个基于springboot的医疗系统
